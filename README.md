@@ -8,7 +8,7 @@
 **token.pickel** ->token for GSheet to use in program  
 **test.py** ->test file to check if the program is working or not  
 # Greendeck folder
-**__init__.py**  -> file where all the program is coded
+**__init__.py**  -> file where the program is implemented
 
 
 # __init__.py file
