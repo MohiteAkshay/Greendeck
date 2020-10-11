@@ -26,3 +26,8 @@ pip install Greendeck-ukanhaupa
 # importing and calling the function
 import Greendeck
 Greendeck.gsheetplot()
+
+
+# How to select desired GSheet
+Please go through the link to learn how to select a desired GSheet and enable API   
+https://developers.google.com/sheets/api/quickstart/js
