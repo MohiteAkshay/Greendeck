@@ -1,0 +1,2 @@
+import Greendeck
+Greendeck.gsheetplot()
