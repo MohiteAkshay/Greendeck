@@ -24,7 +24,7 @@ https://python-packaging.readthedocs.io/en/latest/minimal.html
 pip install Greendeck-ukanhaupa
 
 # importing and calling the function
-import Greendeck
+import Greendeck    
 Greendeck.gsheetplot()
 
 
